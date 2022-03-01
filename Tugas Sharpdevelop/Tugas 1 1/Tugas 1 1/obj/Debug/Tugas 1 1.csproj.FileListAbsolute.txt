@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 1 1\Tugas 1 1\bin\Debug\Tugas 1 1.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 1 1\Tugas 1 1\bin\Debug\Tugas 1 1.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 1 1\Tugas 1 1\obj\Debug\Tugas 1 1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 1 1\Tugas 1 1\obj\Debug\Tugas 1 1.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 1 1\Tugas 1 1\obj\Debug\Tugas 1 1.pdb
